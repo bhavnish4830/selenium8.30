@@ -24,6 +24,7 @@ public class first {
 			
 		}
 		System.out.println(a);
+		System.out.println("bhahsjvhsji");
 	}
 
 }
